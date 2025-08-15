@@ -1,2 +1,9 @@
-# getting-started-with-agents
-A repo on how to create agents using OpenAI services.
+# Getting Started with AI Agents
+A repo on how to create agents using OpenAI services, Azure, and OpenAI Agents.
+
+## Python Libraries Requirements
+- PySpark
+- OpenAI
+- OpenAI-Agents
+
+
